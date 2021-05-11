@@ -80,6 +80,7 @@ public class DataLoader {
 
 			// 批量执行数据库sql插入操作
 			jdbcTemplateMixin.batchInsert(insertSQLList);
+
 		}
 
 	}
