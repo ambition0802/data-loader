@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * @author 黄强(huangqiang.439 @ bytedance.com)
+ * @author yellowstar
  * @version 1.0
  * @description
  * @created 2021/5/11

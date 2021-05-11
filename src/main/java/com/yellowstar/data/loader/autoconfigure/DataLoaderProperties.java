@@ -3,7 +3,7 @@ package com.yellowstar.data.loader.autoconfigure;
 import org.springframework.boot.context.properties.ConfigurationProperties;
 
 /**
- * @author 黄强(huangqiang.439 @ bytedance.com)
+ * @author yellowstar
  * @version 1.0
  * @description
  * @created 2021/5/11

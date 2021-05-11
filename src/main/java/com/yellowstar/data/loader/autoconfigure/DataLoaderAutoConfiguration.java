@@ -12,7 +12,7 @@ import org.springframework.context.annotation.Configuration;
 import org.springframework.jdbc.core.JdbcTemplate;
 
 /**
- * @author 黄强(huangqiang.439 @ bytedance.com)
+ * @author yellowstar
  * @version 1.0
  * @description
  * @created 2021/5/11
