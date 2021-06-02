@@ -52,6 +52,10 @@ public class JdbcTemplateMixin {
 	}
 
 	public void batchInsert(List<String> insertSqlList) {
+
+		if (insertSqlList == null || insertSqlList.size() == 0) {
+			return;
+		}
 		int[] insertResultArr = jdbcTemplate
 				.batchUpdate(insertSqlList.toArray(new String[0]));
 
